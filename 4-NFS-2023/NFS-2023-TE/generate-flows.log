@@ -1,0 +1,33 @@
+NFStream version: 6.5.4
+NFStream processing started. Use Ctrl+C to interrupt and save.
+-----
+Processing ./PCAP/deduplicated_reordered/rdMonday.pcap into NFS-2023-TE/datasets/Monday.csv
+NFStream generated flows: 687767
+Time required to generate flows: 0:06:03.034055
+Flows filtered: 127992
+Flows stored after filtering: 559775
+-----
+Processing ./PCAP/deduplicated_reordered/rdTuesday.pcap into NFS-2023-TE/datasets/Tuesday.csv
+NFStream generated flows: 563175
+Time required to generate flows: 0:06:11.543748
+Flows filtered: 95921
+Flows stored after filtering: 467254
+-----
+Processing ./PCAP/deduplicated_reordered/rdWednesday.pcap into NFS-2023-TE/datasets/Wednesday.csv
+NFStream generated flows: 1085590
+Time required to generate flows: 0:09:00.982193
+Flows filtered: 220177
+Flows stored after filtering: 865413
+-----
+Processing ./PCAP/deduplicated_reordered/rdThursday.pcap into NFS-2023-TE/datasets/Thursday.csv
+NFStream generated flows: 553767
+Time required to generate flows: 0:05:08.284197
+Flows filtered: 68543
+Flows stored after filtering: 485224
+-----
+Processing ./PCAP/deduplicated_reordered/rdFriday.pcap into NFS-2023-TE/datasets/Friday.csv
+NFStream generated flows: 865071
+Time required to generate flows: 0:06:22.396665
+Flows filtered: 89377
+Flows stored after filtering: 775694
+-----

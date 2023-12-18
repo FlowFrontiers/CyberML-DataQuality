@@ -1,0 +1,60 @@
+{
+    "Thursday": {
+        "Total Flows": 458968,
+        "Benign": 456752,
+        "Attack": {
+            "Total Attack Flows": 2216,
+            "Attack Types": {
+                "Web Attack - Brute Force": 1507,
+                "Web Attack - XSS": 652,
+                "Infiltration": 36,
+                "Web Attack - Sql Injection": 21
+            }
+        }
+    },
+    "Friday": {
+        "Total Flows": 703245,
+        "Benign": 414322,
+        "Attack": {
+            "Total Attack Flows": 288923,
+            "Attack Types": {
+                "PortScan": 158930,
+                "DDoS": 128027,
+                "Bot": 1966
+            }
+        }
+    },
+    "Wednesday": {
+        "Total Flows": 692703,
+        "Benign": 440031,
+        "Attack": {
+            "Total Attack Flows": 252672,
+            "Attack Types": {
+                "DoS Hulk": 231073,
+                "DoS GoldenEye": 10293,
+                "DoS slowloris": 5796,
+                "DoS Slowhttptest": 5499,
+                "Heartbleed": 11
+            }
+        }
+    },
+    "Monday": {
+        "Total Flows": 529918,
+        "Benign": 529918,
+        "Attack": {
+            "Total Attack Flows": 0,
+            "Attack Types": {}
+        }
+    },
+    "Tuesday": {
+        "Total Flows": 445909,
+        "Benign": 432074,
+        "Attack": {
+            "Total Attack Flows": 13835,
+            "Attack Types": {
+                "FTP-Patator": 7938,
+                "SSH-Patator": 5897
+            }
+        }
+    }
+}
