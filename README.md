@@ -25,7 +25,7 @@ Each dataset folder follows a specific naming convention for Jupyter Notebooks:
 
 Access our refined versions of the CICIDS-2017 dataset, generated using NFStream:
 
-- **[NFS-2023-nTE]([NFS-2023-nTE](https://github.com/FlowFrontiers/CyberML-DataQuality/tree/main/4-NFS-2023/NFS-2023-nTE/datasets)):** This dataset version does not implement TCP flag-based flow expiration, aligning with the flow generation process in existing dataset versions.
-- **[NFS-2023-TE]([NFS-2023-nTE](https://github.com/FlowFrontiers/CyberML-DataQuality/tree/main/4-NFS-2023/NFS-2023-TE/datasets)):** This version enables TCP flag-based flow expiration, offering a dataset that closely mirrors real-world network traffic characteristics.
+- **[NFS-2023-nTE](https://github.com/FlowFrontiers/CyberML-DataQuality/tree/main/4-NFS-2023/NFS-2023-nTE/datasets):** This dataset version does not implement TCP flag-based flow expiration, aligning with the flow generation process in existing dataset versions.
+- **[NFS-2023-nTE](https://github.com/FlowFrontiers/CyberML-DataQuality/tree/main/4-NFS-2023/NFS-2023-TE/datasets):** This version enables TCP flag-based flow expiration, offering a dataset that closely mirrors real-world network traffic characteristics.
 
 ---
