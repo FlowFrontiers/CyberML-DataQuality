@@ -17,7 +17,7 @@ This repository is organized to facilitate easy access to the datasets, scripts,
 ### File Structure
 
 Each dataset folder follows a specific naming convention for Jupyter Notebooks:
-- Notebooks with `*-data-analysis*` provide a comprehensive analysis of the dataset, focusing on flow counts, label distributions, occurrences of negative and NaN values, and TCP FIN and RST flag counts.
+- `*-data-analysis*` notebook provide a comprehensive analysis of the dataset, focusing on flow counts, label distributions, occurrences of negative and NaN values, and TCP FIN and RST flag counts.
 - `*-without_feat_sel*` notebooks offer supporting material and analyses related to the manuscript.
 - `*-with_feat_sel*` notebooks present extended analyses, comparing the performance of DT, RF, and NB algorithms with top 15 features selected by the ExtraTrees algorithm.
 
@@ -29,6 +29,7 @@ Access our refined versions of the CICIDS-2017 dataset, generated using NFStream
   - The code used for generating this dataset is available at [No TCP Expiry](https://github.com/FlowFrontiers/CyberML-DataQuality/blob/main/4-NFS-2023/2-NFS-2023-nTE-1-analyse-dataset.ipynb).   
 - **[NFS-2023-TE](https://github.com/FlowFrontiers/CyberML-DataQuality/tree/main/4-NFS-2023/NFS-2023-TE/datasets):** This version enables TCP flag-based flow expiration, offering a dataset that closely mirrors real-world network traffic characteristics.
   - The code used for generating this dataset is available at [TCP Expiry](https://github.com/FlowFrontiers/CyberML-DataQuality/blob/main/4-NFS-2023/3-NFS-2023-TE-1-analyse-dataset.ipynb).
+- The flow labelling mechanism adapted from CRiSIS-2022 is available at [Labeller](https://github.com/FlowFrontiers/CyberML-DataQuality/blob/main/4-NFS-2023/labeller.py).
 
 ## Documentation
 
