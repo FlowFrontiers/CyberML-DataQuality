@@ -9,10 +9,13 @@ This repository is organized to facilitate easy access to the datasets, scripts,
 ### Folder Structure
 
 - **[1-CICIDS-2017](1-CICIDS-2017):** This folder contains files and scripts related to the `CICIDS-2017` dataset analysis.
-- **[2-WTMC-2021](2-WTMC-2021):** Here, you'll find materials associated with the `WTMC-2021` refinement of the `CICIDS-2017` dataset.
+- **[2-WTMC-2021](2-WTMC-2021):**  This folder contains materials associated with the `WTMC-2021` refinement of the `CICIDS-2017` dataset.
 - **[3-CRiSIS-2022](3-CRiSIS-2022):** This folder includes files and scripts for the `CRiSIS-2022` refinement of the `CICIDS-2017` dataset.
 - **[4-NFS-2023](4-NFS-2023):** Contains materials for our refined versions of the `CICIDS-2017` dataset, namely `NFS-2023-nTE` and `NFS-2023-TE`.
-- **[visual-comparison](visual-comparison):** This section hosts Jupyter Notebooks and plots for a visual comparison of results, focusing on RF performance metrics (precision, recall, accuracy, F1 score, and AUC), confusion matrices, and feature importances.
+- **[visual-comparison](visual-comparison):** This folder hosts Jupyter Notebooks and plots for a visual comparison of results, focusing on RF performance metrics (precision, recall, accuracy, F1 score, and AUC), confusion matrices, and feature importances.
+  - For insights into the feature importances in binary classification using RF, visit [Binary Feature Importances](https://github.com/FlowFrontiers/CyberML-DataQuality/blob/main/visual-comparison/fig/binary-feature-importance.png). Additionally, the corresponding confusion matrices are available at [Binary Confusion Matrices](https://github.com/FlowFrontiers/CyberML-DataQuality/blob/main/visual-comparison/fig/binary-confusion-matrices.png).
+  - For an overview of feature importances in RF multi-class classification, refer to [Multi-Class Feature Importances](https://github.com/FlowFrontiers/CyberML-DataQuality/blob/main/visual-comparison/fig/multi-feature-importance.png). The confusion matrices for this classification can be explored at [Multi-Class Confusion Matrices](https://github.com/FlowFrontiers/CyberML-DataQuality/blob/main/visual-comparison/fig/multi-confusion-matrices.png).
+
 
 ### File Structure
 
