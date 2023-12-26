@@ -1,6 +1,6 @@
-# Evaluating ML-Based Anomaly Detection Across Datasets of Varied Quality: A Case Study
+# Evaluating ML-Based Anomaly Detection Across Datasets of Varied Integrity: A Case Study
 
-Welcome to the supporting page for the manuscript titled, _"Evaluating ML-Based Anomaly Detection Across Datasets of Varied Quality: A Case Study."_ This repository contains all the necessary files, scripts, and data analyses that complement the findings and discussions presented in the paper.
+Welcome to the supporting page for the manuscript titled, _"Evaluating ML-Based Anomaly Detection Across Datasets of Varied Integrity: A Case Study."_ This repository contains all the necessary files, scripts, and data analyses that complement the findings and discussions presented in the paper.
 
 ## Repository Structure
 
